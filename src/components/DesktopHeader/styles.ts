@@ -66,7 +66,22 @@ export const Wrapper = styled.div`
 
 `;
 
-export const SearchInput = styled.input``;
+export const SearchInput = styled.input`
+
+  margin-left: 12px;
+  background: var(--color-input);
+  color: var(--color-black);
+  font-size: 14px;
+  padding: 7.5px 8px;
+  border: none;
+  outline: none;
+  border-radius: 2px;
+
+  &:focus {
+    background: var(--color-white);
+  }
+
+`;
 
 const generalIconCSS = css`
 
@@ -78,7 +93,11 @@ const generalIconCSS = css`
 export const LinkedInIcon = styled(GrLinkedin)`
 
   height: 34px;
-
+  width: 34px;
+  color: var(--color-linkedin);
+  background: #fff;
+  border-radius: 4px;
+  flex-shrink: 0;
 `;
 
 export const HomeIcon = styled(AiFillHome)`
