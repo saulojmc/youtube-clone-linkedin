@@ -21,36 +21,36 @@ const TrendingPanel: React.FC = () => {
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Bootcamp da Microsoft</span>
+              <span className="subtext">há 1 d • 223 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Bootcamp da Shawee</span>
+              <span className="subtext">há 1 d • 196 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Bootcamp da CyberLabs</span>
+              <span className="subtext">há 1 d • 115 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Bootcamp da Globo.com</span>
+              <span className="subtext">há 1 d • 106 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Bootcamp da Telecom.Tim</span>
+              <span className="subtext">há 1 d • 99 leitores</span>
             </span>
           </li>
         </ul>
